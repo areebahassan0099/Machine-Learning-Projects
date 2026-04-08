@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Projects — DevelopersHub Internship
+# Machine Learning Projects — DevelopersHub Internship
 
 **Intern:** Areeba Hassan  
 **Organization:** DevelopersHub  
